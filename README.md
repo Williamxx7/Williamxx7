@@ -1,4 +1,4 @@
-# Hej, jeg er William
+# Hej, jeg hedder William
 
 Jeg interesserer mig for cybersikkerhed, netværk og full-stack udvikling.
 
